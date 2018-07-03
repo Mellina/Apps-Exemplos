@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Phone Call</string>
+
+    <string name="txt_telefone">Telefone:</string>
+
+    <string name="btn_ligar">Ligar</string>
+
+</resources>

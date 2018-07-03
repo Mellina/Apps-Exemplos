@@ -1,0 +1,4 @@
+-------- Tópicos --------------------------------------- Nome Apps
+
+18.2 Efetuando ligações telefônicas ------------------- PhoneCall
+18.3 Enviando e recebendo SMS ------------------------- SMS
