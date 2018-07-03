@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">FragmentCommunication</string>
+
+    <string name="btn_inverter">Inverter</string>
+    <string name="txt_texto">Texto:</string>
+
+</resources>

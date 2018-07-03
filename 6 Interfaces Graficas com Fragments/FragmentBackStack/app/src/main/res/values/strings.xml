@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">FragmentBackStack</string>
+
+    <string name="txt_top">Fragment 1</string>
+    <string name="txt_middle">Fragment 2</string>
+    <string name="txt_bottom">Fragment 3</string>
+
+</resources>
