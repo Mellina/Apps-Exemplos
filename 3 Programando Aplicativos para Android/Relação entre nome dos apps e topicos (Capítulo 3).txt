@@ -1,0 +1,12 @@
+-------- Tópicos --------------------------------------- Nome Apps
+
+3.2 Criando activities   ------------------------------ Activities
+3.3 Logging em aplicações ----------------------------- Logging
+3.4 Detectando erros com a ajuda dos logs ------------- Erros
+3.5 Trabalhando com o ciclo de vida de uma activity --- ActivityLifeCycle 
+3.6 Usando resources ---------------------------------- Resources
+3.7 Referenciando JARs externos ----------------------- JARs
+3.8 Configurando o uso da API de Compatibilidade ------ SupportAPI
+3.9 Runtime Permissions na prática -------------------- RuntimePermissions
+3.10 Sugestão de API para Runtime Permissions --------- PermissionsAPI
+
