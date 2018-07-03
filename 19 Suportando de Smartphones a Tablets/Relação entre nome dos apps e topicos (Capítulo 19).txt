@@ -1,0 +1,4 @@
+-------------------- Tópicos --------------------------------------- Nome Apps
+
+19.2 Criando layouts para orientações diferentes ------------------- Layouts
+

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<regioes>
+    <regiao nome="Sul">
+        <estado nome="Rio Grande do Sul" sigla="RS" />
+        <estado nome="Santa Catarina" sigla="SC" />
+        <estado nome="Paraná" sigla="PR" />
+    </regiao>
+    
+    <regiao nome="Sudeste">
+        <estado nome="São Paulo" sigla="SP" />
+        <estado nome="Rio de Janeiro" sigla="RJ" />
+        <estado nome="Espírito Santo" sigla="ES" />
+        <estado nome="Minas Gerais" sigla="MG" />
+    </regiao>
+    
+    <regiao nome="Nordeste">
+        <estado nome="Maranhão" sigla="MA" />
+        <estado nome="Piauí" sigla="PI" />
+        <estado nome="Ceará" sigla="CE" />
+        <estado nome="Rio Grande do Norte" sigla="RN" />
+        <estado nome="Pernambuco" sigla="PE" />
+        <estado nome="Paraíba" sigla="PB" />
+        <estado nome="Sergipe" sigla="SE" />
+        <estado nome="Alagoas" sigla="AL" />
+        <estado nome="Bahia" sigla="BA" />
+    </regiao>
+
+    <regiao nome="Norte">
+        <estado nome="Amazonas" sigla="AM" />
+        <estado nome="Roraima" sigla="RR" />
+        <estado nome="Amapá" sigla="AP" />
+        <estado nome="Pará" sigla="PA" />
+        <estado nome="Tocantins" sigla="TO" />
+        <estado nome="Rondônia" sigla="RO" />
+        <estado nome="Acre" sigla="AC" />
+    </regiao>
+    
+    <regiao nome="Centro-Oeste">
+        <estado nome="Mato Grosso" sigla="MT" />
+        <estado nome="Mato Grosso do Sul" sigla="MS" />
+        <estado nome="Goiás" sigla="GO" />
+    </regiao>
+</regioes>
