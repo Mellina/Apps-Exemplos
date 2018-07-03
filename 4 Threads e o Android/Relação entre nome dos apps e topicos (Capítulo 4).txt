@@ -1,0 +1,6 @@
+﻿---------- Tópicos ----------------------------------------- Nome Apps
+
+4.2 Lançando novas threads  ---------------------------------------- Threads
+4.3 Usando handlers ------------------------------------------------ Handlers
+4.4 Criando tarefas assíncronas ------------------------------------ AsyncTask
+
