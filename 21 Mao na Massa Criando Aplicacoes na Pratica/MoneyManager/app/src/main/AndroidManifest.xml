@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.com.softblue.android">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity android:name=".activity.DespesasListActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity.EditDespesaActivity"
+            android:label="@string/activity_title_despesa"
+            android:parentActivityName=".activity.DespesasListActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity.DespesasListActivity" />
+        </activity>
+        <activity
+            android:name=".activity.ReportActivity"
+            android:label="@string/activity_title_relatorio"
+            android:parentActivityName=".activity.DespesasListActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity.DespesasListActivity" />
+        </activity>
+
+        <provider
+            android:name=".provider.DataProvider"
+            android:authorities="br.com.softblue.android.provider.DataProvider"
+            android:exported="false" />
+    </application>
+
+</manifest>
