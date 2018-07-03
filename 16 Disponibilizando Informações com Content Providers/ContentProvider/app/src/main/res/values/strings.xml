@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Content Provider</string>
+
+    <string name="txt_empty">Nenhum produto cadastrado</string>
+
+    <string name="action_add">Adicionar</string>
+
+    <string name="txt_nome">Nome:</string>
+    <string name="txt_valor">Valor:</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_ok">OK</string>
+</resources>
