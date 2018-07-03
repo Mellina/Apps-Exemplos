@@ -4,8 +4,9 @@
 16.4 Usando content providers nativos do Android ----------------------------------- ContentProviderSettings
 
 *** Descrição dos Apps ***
+**This is bold text**
 16.2 e 16.3 Trabalhando com content providers, loaders e adapters
 CRUD com Content Providers
 
 16.4 Usando content providers nativos do Android
-  Lista com os Content Providers nativos do android
+Lista com os Content Providers nativos do android
