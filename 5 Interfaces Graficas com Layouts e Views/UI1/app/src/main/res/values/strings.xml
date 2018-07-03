@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UI1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="pergunta1">De qual linguagem de programação você gosta?</string>
+    <string name="java">Java</string>
+    <string name="c">C</string>
+    <string name="cplusplus">C++</string>
+    <string name="pergunta2">Qual paradigma de programação você prefere?</string>
+    <string name="procedural">Prodecural</string>
+    <string name="poo">POO</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="ok">OK</string>
+
+</resources>

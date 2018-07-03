@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Editor</string>
+    <string name="nome">Nome:</string>
+    <string name="email">E-mail:</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="salvar">Salvar</string>
+
+</resources>
