@@ -5,7 +5,7 @@
 
 *** Descrição dos Apps ***
 16.2 e 16.3 Trabalhando com content providers, loaders e adapters
-  **CRUD com Content Providers**
+CRUD com Content Providers
 
-**16.4 Usando content providers nativos do Android**
+16.4 Usando content providers nativos do Android
   Lista com os Content Providers nativos do android
