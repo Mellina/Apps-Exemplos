@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InvokeActivity</string>
+    <string name="txt_nome">Nome:</string>
+    <string name="btn_prox">Próximo</string>
+    <string name="txt_email">E-mail:</string>
+    <string name="btn_config">Configurações</string>
+</resources>
