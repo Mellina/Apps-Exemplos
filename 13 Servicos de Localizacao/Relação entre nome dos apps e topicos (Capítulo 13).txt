@@ -1,0 +1,6 @@
+-------- Tópicos ------------------------------------------------------------------ Nome Apps
+
+13.2 Preparando o ambiente para a integração com o Google Play Services SDK ------- LocationSetup
+13.3 Lendo a localização do dispositivo ------------------------------------------- Location
+13.4 Criando geofences para pontos de interesse ----------------------------------- Geofence
+

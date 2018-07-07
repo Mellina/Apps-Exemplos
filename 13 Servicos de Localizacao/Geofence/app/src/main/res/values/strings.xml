@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Geofences</string>
+
+    <string name="btn_location">Iniciar Localização</string>
+    <string name="btn_remove">Remover Geofences</string>
+
+</resources>
