@@ -1,0 +1,9 @@
+-------- Tópicos ------------------------------------------------------------------- Nome Apps
+
+7.2 Usando adapters para construir uma lista de itens ------------------------------ Adapters
+7.3 Criando listas dentro de fragments --------------------------------------------- ListFragment
+7.4 Trabalhando com spinners ------------------------------------------------------- Spinner
+7.5 Dialogs com as classes AlertDialog e DialogFragment ---------------------------- Dialogs
+7.6 Usando as views DatePicker e TimePicker ---------------------------------------- Pickers
+7.7 Fazendo um DialogFragment se comunicar com a activity -------------------------- DialogComm
+7.8 Usando o RecyclerView para criar listas otimizadas ----------------------------- RecyclerView

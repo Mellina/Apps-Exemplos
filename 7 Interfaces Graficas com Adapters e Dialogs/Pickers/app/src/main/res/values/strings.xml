@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Pickers</string>
+
+    <string name="txt_date">Date</string>
+    <string name="txt_time">Time</string>
+
+</resources>

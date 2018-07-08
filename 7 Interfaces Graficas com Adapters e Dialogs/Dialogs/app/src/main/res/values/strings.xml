@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Dialogs</string>
+
+    <string name="txt_dialog">Abrir Dialog</string>
+    <string name="txt_dialog_simple">Abrir Dialog Simples</string>
+    <string name="txt_dialog_radio">Abrir Dialog com Radio Button</string>
+    <string name="txt_dialog_multiple">Abrir Dialog Múltiplo</string>
+
+    <string-array name="bandas">
+        <item>Foo Fighters</item>
+        <item>Aerosmith</item>
+        <item>Metallica</item>
+        <item>Beatles</item>
+    </string-array>
+
+</resources>

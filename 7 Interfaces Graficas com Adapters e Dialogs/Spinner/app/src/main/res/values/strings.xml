@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Spinner</string>
+    <string name="txt_letra">Escolha uma letra:</string>
+    <string name="escolha">Escolha uma letra:</string>
+
+</resources>
