@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="app_name">PreferencesFramework</string>
+    
+    <string name="pref_map_enabled">pref-1</string>
+    <string name="pref_un_dist">pref-2</string>
+    <string name="pref_sattelite">pref-3</string>
+
+    <string name="img_off">Imagens desligadas</string>
+    <string name="img_on">Imagens ligadas</string>
+
+    <string name="title">Configuração</string>
+    <string name="mapas">Mapas</string>
+
+    <string-array name="un_dist_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    
+    <string name="un_dist_default">1</string>
+    
+    <string-array name="un_dist_entries">
+        <item>Metros</item>
+        <item>Milhas</item>
+    </string-array>
+    
+    <bool name="sattelite_default">false</bool>
+    <bool name="map_enabled_default">true</bool>
+</resources>

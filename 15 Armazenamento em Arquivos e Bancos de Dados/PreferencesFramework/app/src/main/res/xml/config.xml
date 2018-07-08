@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/title">
+
+    <SwitchPreference
+        android:key="@string/pref_map_enabled"
+        android:defaultValue="@bool/map_enabled_default"
+        android:title="@string/mapas" />
+
+    <PreferenceCategory android:title="Unidades de Medida">
+        <ListPreference
+            android:key="@string/pref_un_dist"
+            android:defaultValue="@string/un_dist_default"
+            android:title="Distância"
+            android:summary="Metros ou Milhas"
+            android:entries="@array/un_dist_entries"
+            android:entryValues="@array/un_dist_values" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Visualização">
+        <CheckBoxPreference
+            android:key="@string/pref_sattelite"
+            android:defaultValue="@bool/sattelite_default"
+            android:title="Imagens de satélite"
+            android:summaryOn="@string/img_on"
+            android:summaryOff="@string/img_off" />
+    </PreferenceCategory>
+</PreferenceScreen>

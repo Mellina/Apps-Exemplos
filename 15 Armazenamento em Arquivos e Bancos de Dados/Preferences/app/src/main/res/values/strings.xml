@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Preferences</string>
+
+    <string name="txt_nome">Nome:</string>
+    <string name="txt_idade">Idade:</string>
+    <string name="btn_ok">OK</string>
+
+</resources>
